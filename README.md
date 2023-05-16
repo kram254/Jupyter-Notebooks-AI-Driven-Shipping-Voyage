@@ -1,5 +1,5 @@
 # Jupyter-Notebooks-AI-Driven-Shipping-Voyage
-# Ship Capacity Prediction and Ferry Route Optimization
+## Ship Capacity Prediction and Ferry Route Optimization
 
 Welcome to the Ship Capacity Prediction and Ferry Route Optimization project! 🚢⚓ This repository contains the code implementation for 
 predicting the capacity of container ships using regression models and optimizing ferry routes using an evolutionary computation 
@@ -36,7 +36,7 @@ To run this project locally, please follow the instructions below
 
 ### Clone this repository to your local machine using the following command
 ```
-git clone https://github.com/your-username/ship-capacity-route-optimization.git
+git clone https://github.com/kram254/Jupyter-Notebooks-AI-Driven-Shipping-Voyage/.git
 ```
 
 ### Install the required dependencies by running
